@@ -6,5 +6,10 @@
 :snake: **Researching Repository**
 | Topic        | Title           | Details           |
 | ------------- |-------------|-------------|
+| Grasping Detection      | [[IROS 22] LGPNet: Alleviating A Few Labeled Data and Large-Scale Network Dilemmas in Grasping Detection](https://github.com/TianheWu/LGPNet) |  My first project on conputer vision && |
 
-| Grasping Detection      | [[IROS 22] LGPNet: Alleviating A Few Labeled Data and Large-Scale Network Dilemmas in Grasping Detection](https://github.com/TianheWu/LGPNet) |  My graduation project Capstone in Beijing University of Technology Fangong Xiu Honors Colledge|
+
+
+
+
+
