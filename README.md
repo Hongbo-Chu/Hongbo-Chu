@@ -12,9 +12,6 @@
 
 
 
-https://img.shields.io/badge/Pytorch-v11-yellowgreen
-
-
 :snake: **Researching Repository**
 | Topic        | Title           | Details           |
 | ------------- |-------------|-------------|
