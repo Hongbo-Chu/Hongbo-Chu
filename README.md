@@ -6,9 +6,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-- 🔭 I’m currently studying at [BJUT](https://www.bjut.edu.cn/)
+- 🔭 I’m currently studying at [Tsinghua University](https://www.bjut.edu.cn/)
 - 🌱 Fields: **computer vision ，medical image processing**
-- 📫 How to reach me: chuhb010117@gmail.com [![Email](https://img.shields.io/badge/-chuhb010117@gmail.com-green?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:chuhb010117@gmail.com)](chuhb010117@gmail.com)
+- 📫 How to reach me: chuhb010117@gmail.com [![Email](https://img.shields.io/badge/-zhu-hb23@mails.tsinghua.edu.cn-green?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:zhu-hb23@mails.tsinghua.edu.cn)](zhu-hb23@mails.tsinghua.edu.cn)
 
 
 
