@@ -6,7 +6,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-- 🔭 I’m currently studying at [Tsinghua University](https://www.sigs.tsinghua.edu.cn/）
+- 🔭 I’m currently studying at [Tsinghua University] (https://www.sigs.tsinghua.edu.cn/ ）
 - 🌱 Fields: **computer vision ，medical image processing**
 - 📫 How to reach me: zhu-hb23@mails.tsinghua.edu.cn ![Gmail](https://img.shields.io/badge/Gmail-f8f9fa.svg?logo=gmail&style=flat-square)
 
